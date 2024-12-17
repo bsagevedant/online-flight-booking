@@ -3,17 +3,7 @@
 <body>
 <h1>Abstract</h1>
 <p>
-The main objective of this application is to decrease the manual mistakes engaged in the
-commercial airline booking process and create it practical for the clients to book the routes as
-when they require such that they can implement this application to create bookings, change
-bookings or terminate a particular booking.
-The name of the application is “AIRLINE BOOKING SYSTEM”. This application provides
-alternatives for watching different routes available with different timings for a particular time
-frame and provides clients with the service to publication a admission, change or terminate a
-particular reservation but it does not offer the clients with information of price of the admission
-and it does not allow the client to alter a particular aspect of his reservation and he/she can
-change all his information. The software keep generating timely message regarding schedule
-related updates to users.
+The Airline Booking System simplifies airline bookings by allowing users to book, modify, or cancel reservations, view routes and timings, and receive schedule updates, but it excludes ticket prices and partial changes.
 </p>
 
 <h1>Specific Technology</h1>
